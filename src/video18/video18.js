@@ -23,6 +23,6 @@ console.log(isTuiDepGai);
 let Bla;
 console.log(Bla);
 
-// null
+// null: da gan gia tri roi, gia tri khong co 
 let testNull = null;
 console.log(testNull);
