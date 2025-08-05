@@ -15,6 +15,7 @@ function show() {
 show(); 
 console.log(globalVar); // Truy cập được 
 
+// Bị giới hạn bởi cặp đóng mở ngoặc nhọn với phạm vi 'Hàm' và 'Khối'
 
 // Phạm vi hàm – Function Scope
 function sayHi() { 
