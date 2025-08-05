@@ -6,7 +6,7 @@ console.log("Video 31. Arrow function");
 
 // console.log(sum(10, 5));
 
-
+// vốn dĩ ban đầu là function vô danh nên cần được đặt tên mới trả ra 
 const sum = (a, b) => {
     return a + b;
 }
