@@ -13,7 +13,8 @@ console.log("Video 29: Break, Continue");
 
 for (let i = 1; i <  10; i++){
     if (i === 5){ 
-        continue;
+        continue; 
+        // thoát ra lần lập hiện tại nếu đúng điều kiện và quay lên 
     }
     console.log("i = ",i);
 
