@@ -17,6 +17,7 @@ person["language"] = "VietNamese";
 
 // delete
 delete person.address;
+
 console.log("person after: ", person);
 
 
