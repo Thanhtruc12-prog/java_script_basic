@@ -23,15 +23,3 @@ btnLogin.addEventListener("click", () => {
     
 })
 
-
-// function controlBtn() {
-//     if (inputName.value == "hoidanit@gmail.com" && inputPass == 123456){
-//         alert("Đăng nhập thành công!");
-
-//     }
-//     else{
-//         alert("Tài khoản hoặc mật khẩu sai");
-//         inputName.style.borderColor = "red";
-//         inputPass.style.borderColor = "red";
-//     }
-// }
