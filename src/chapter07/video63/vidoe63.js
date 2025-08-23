@@ -16,6 +16,6 @@ response.json( ) : Chuyển dữ liệu từ JSON sang Object
 const temp = fetch("http://localhost:8000/users");
 
 temp
-.then(data => data.json())
-.then(d => console.log(d));
+.then(res => res.json())// res.json là 1 promise nên cần , then để lấy data
+.then(data => console.log(data));
 
