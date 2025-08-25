@@ -1,5 +1,9 @@
 console.log("Video 66: Async/ Await");
 
+
+// callback
+
+
 // promise 
 fetch("http://localhost:8000/users")
     .then(res => res.json())
